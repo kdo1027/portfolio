@@ -37,7 +37,7 @@ function Journal() {
         <li>went to the 1st hackathon @ yale health hack</li>
         <li>wore ao dai 1st time</li>
         <li>started watching modern family!!!!</li>
-        <li>lost the olympus mjuiii @ airport</li>
+        <li>lost brand new olympus mjuiii @ airport</li>
         <li>ate pizza4ps @ new year</li>
       </ul>
       <p>2022 - 2023</p>
