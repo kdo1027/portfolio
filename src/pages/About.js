@@ -51,12 +51,12 @@ function About() {
         sometimes, i just love to go around and try new things at every opportunity while pushing myself out of my comfort zone ˙✧˖°📷 ༘ ⋆｡˚. 
         <br />
         <br />
-        also, i like to learn as much as i can from the amazing people around me so plz connect!!! (˶˃ ᵕ ˂˶)
-        <br />
-        <br />
         i learned how to code while thinking about how to turn a random lego into a personal assistant. 
         i’ve created various digital apps aimed at helping people in my community and beyond, striving to revolutionize fields ranging from finance to healthcare. 
         i love to create meaningful technologies that make the world a better place and simplify life for everyone. ‧₊˚🖇️✩ ₊˚🎧⊹♡
+        <br />
+        <br />
+        also, i like to learn as much as i can from the amazing people around me so plz connect!!! (˶˃ ᵕ ˂˶) 🌟
       </p>
       <br/>
       <p>
