@@ -1,0 +1,248 @@
+:root {
+    --background-primary: #e2fdff;
+    --color-primary: black;
+    --color-secondary: rgb(55, 55, 55);
+    --color-dash: #99acad;
+    --background-reverse: #121212;
+    --color-reverse: #f5f7fa;
+    --box-shadow: rgba(0, 0, 0, 0.3);
+  }
+  
+  .sun {
+    --background-primary: #e2fdff;
+    --color-primary: black;
+    --color-secondary: rgb(66, 66, 66);
+    --color-dash: #99acad;
+    --background-reverse: #121212;
+    --color-reverse: #f5f7fa;
+    --box-shadow: rgba(0, 0, 0, 0.3);
+  }
+  
+  .moon {
+    --background-primary: #121212;
+    --color-primary: #f5f7fa;
+    --color-secondary: rgb(184, 184, 184);
+    --color-dash: #e2fdff;
+    --background-reverse: #e2fdff;
+    --color-reverse: black;
+    --box-shadow: rgba(255, 255, 255, 0.3);
+  }
+  
+
+html {
+    background: #e2fdff;
+    background: var(--background-primary)
+}
+
+h1,h2,html,p {
+    color: #292626;
+    color: var(--color-primary)
+}
+
+h2 {
+    font-weight: 600
+}
+
+h4 {
+    color: #373737;
+    color: var(--color-secondary)
+}
+
+textarea {
+    background-color: #e2fdff;
+    background-color: var(--background-primary);
+    border-color: var(--color-dash);
+    border-width: 0 0 2px;
+    color: #292626;
+    color: var(--color-primary);
+    font-size: 1.25em;
+    height: 1.3em;
+    outline: 0;
+    overflow: hidden;
+    resize: both;
+    width: 100%
+}
+
+textarea:focus {
+    border-color: #292626;
+    border-color: var(--color-primary)
+}
+
+textarea::-webkit-input-placeholder {
+    color: var(--color-dash)
+}
+
+textarea::placeholder {
+    color: var(--color-dash)
+}
+
+input[type=submit] {
+    background-color: #121212;
+    background-color: var(--background-reverse);
+    border-radius: 5px;
+    color: #f5f7fa;
+    color: var(--color-reverse);
+    font-size: 1em
+}
+
+@media (hover: none) {
+    .my-theme_toggle {
+        color:#292626;
+        color: var(--color-primary)
+    }
+}
+
+body {
+    -ms-overflow-style: none;
+    background-color: #e2fdff;
+    background-color: var(--background-primary);
+    color: #292626;
+    color: var(--color-primary);
+    font-family: Inter,Arial,sans-serif;
+    font-weight: 400;
+    overflow-y: scroll;
+    scrollbar-width: none
+}
+
+body::-webkit-scrollbar {
+    height: 0;
+    width: 0
+}
+
+.theme_toggle,.theme_toggle:active,.theme_toggle:visited,a,a:active,a:visited {
+    color: #292626;
+    color: var(--color-primary);
+    text-decoration: none
+}
+
+.theme_toggle:hover,a:hover {
+    color: #89cff0;
+    cursor: pointer
+}
+
+#outer {
+    align-items: center;
+    min-height: 16.66667vh
+}
+
+#inner,#outer {
+    display: flex;
+    flex-direction: row;
+    flex-grow: 1
+}
+
+#inner {
+    align-items: flex-start;
+    flex-basis: 33.33333%;
+    flex-shrink: 10
+}
+
+
+#form {
+    align-items: flex-start;
+    display: flex;
+    justify-content: space-between
+}
+
+#nav_bar {
+    flex-grow: 3;
+    line-height: 35px;
+    margin-right: 5vh;
+    max-width: -webkit-max-content;
+    max-width: max-content;
+    text-align: right
+}
+
+.nav_element {
+    color: #89cff0!important
+}
+
+#content {
+    flex-grow: 7;
+    max-height: -webkit-max-content;
+    max-height: max-content
+}
+
+.clickable,.clickable:active,.clickable:visited {
+    color: #292626;
+    color: var(--color-primary);
+    color: #1E90FF;
+    cursor: pointer;
+    line-height: normal;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none
+}
+
+.clickable:hover,.credit:hover {
+    color: #89cff0!important
+}
+
+.credit,.credit:active,.credit:visited {
+    color: #292626;
+    color: var(--color-primary);
+    cursor: pointer;
+    line-height: normal;
+    text-decoration: underline;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none
+}
+
+.credit_p {
+    font-size: small;
+    margin-top: -10px
+}
+
+.links {
+    letter-spacing: .5em
+}
+
+.count,.disclaimer {
+    font-size: x-small
+}
+
+.count {
+    align-self: flex-start;
+    margin-top: -5px;
+    text-align: right
+}
+
+.box {
+    outline: 2px solid #292626;
+    outline: 2px solid var(--color-primary)
+}
+
+.food {
+    max-width: 50%
+}
+
+.venn {
+    max-width: 100%
+}
+
+.active {
+    color: #3b7e56!important
+}
+
+.fadeIn-enter {
+    opacity: 0
+}
+
+.fadeIn-enter-active {
+    opacity: 1;
+    transition: opacity 1s ease-in-out
+}
+
+.fadeIn-exit {
+    opacity: 0
+}
+
+.fadeIn-exit-active {
+    opacity: 0;
+    transition: opacity 1s ease-in-out
+}
+
+.logo-button {
+    padding: 20px
+}
