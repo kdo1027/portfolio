@@ -3,8 +3,8 @@ import { NavLink } from "react-router-dom";
 
 const secondmajors = [
   "mathematics 📐",
-  "economics 💵",
-  "business ♣",
+  "economics ♣ ",
+  "business 💵",
   "statistics & analytics 📈",
   "data science 🗄️",
   "public policy ⚖",
