@@ -56,7 +56,7 @@ function About() {
         i love to create meaningful technologies that make the world a better place and simplify life for everyone. ‧₊˚🖇️✩ ₊˚🎧⊹♡
         <br />
         <br />
-        also, i like to learn as much as i can from the amazing people around me so plz connect!!! (˶˃ ᵕ ˂˶) 🌟
+        also, i like to learn as much as i can from the amazing people around me so plz connect!!! (˶˃ ᵕ ˂˶) 
       </p>
       <br/>
       <p>
