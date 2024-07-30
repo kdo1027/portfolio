@@ -54,9 +54,9 @@ function About() {
         also, i like to learn as much as i can from the amazing people around me so plz connect!!! (˶˃ ᵕ ˂˶)
         <br />
         <br />
-        I learned how to code while thinking about how to turn a random lego into a personal assistant. 
-        I’ve built different digital apps to help people in my community and beyond. 
-        I love to create meaningful technologies that change the world and make life easier. ‧₊˚🖇️✩ ₊˚🎧⊹♡
+        i learned how to code while thinking about how to turn a random lego into a personal assistant. 
+        i’ve created various digital apps aimed at helping people in my community and beyond, striving to revolutionize fields ranging from finance to healthcare. 
+        i love to create meaningful technologies that make the world a better place and simplify life for everyone. ‧₊˚🖇️✩ ₊˚🎧⊹♡
       </p>
       <br/>
       <p>
