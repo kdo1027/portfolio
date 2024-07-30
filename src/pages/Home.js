@@ -38,7 +38,7 @@ function useWordCycle(words) {
 
 function Home() {
   useEffect(() => {
-    document.title = "kdothings (≧∇≦)";
+    document.title = "kdothings ⸜(｡˃ ᵕ ˂)⸝♡";
   }, []);
 
   const [currentHobby, handleHobbyClick] = useWordCycle(hobbies);

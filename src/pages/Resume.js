@@ -7,7 +7,7 @@ function Resume() {
 
   return (
     <div>
-      <p>here's my resume (ง'̀-'́)ง</p>
+      <p>here's my resume 🌊🪸🐚🐬</p>
       <br/>
 
       <iframe

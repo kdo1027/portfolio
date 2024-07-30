@@ -14,6 +14,7 @@ function Journal() {
       <ul>
         <li>built personal website</li>
         <li>went to my first concert (IU)</li>
+        <li>bought merch @ museum of coke (atlanta)</li>
         <li>finished @ denison</li>
       </ul>
       <p>May/June 2024</p>
@@ -21,8 +22,8 @@ function Journal() {
         <li>first learned about blockchain</li>
         <li>built first mechanical keyboard</li>
         <li>walked around central park</li>
-        <li>tried award-winning bobas (go chicha san chen)</li>
-        <li>got all aespa member cards (go armageddon)</li>
+        <li>tried award-winning bobas (go chicha san chen 🧋) </li>
+        <li>got all aespa member cards (go armageddon *ੈ✩‧₊˚)</li>
       </ul>
       <p>Mar/Apr 2024</p>
       <ul>
