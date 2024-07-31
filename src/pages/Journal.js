@@ -47,7 +47,7 @@ function Journal() {
         <li>experienced both swe & consulting interns during summer</li>
         <li>mental suffering</li>
         <li>graduated high school @ hn-ams</li>
-        <li>ended my first public health software & research project </li>
+        <li>ended my first digital health project </li>
       </ul>
     </div>
   );

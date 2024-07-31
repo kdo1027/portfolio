@@ -35,8 +35,7 @@ function About() {
 
   return (
     <div>
-      {/* <img src="/images/profile.png" alt="my picture :>" width="150" height="auto" style={{ borderRadius: '50%' }}/> */}
-      {/* <img src="/images/profile.png" width="200" height="auto"/> */}
+      <img src="/images/profile.jpeg" alt="my pic" width="225" height="auto" style={{ borderRadius: '100%' }}/>
       <br/>
       <br/>
       <p>
