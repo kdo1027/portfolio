@@ -91,7 +91,7 @@ function About() {
             class="clickable"
             target="_blank"
           >
-            Develop for Good
+            develop for good
           </a>
           )
         </li>
@@ -102,7 +102,7 @@ function About() {
             class="clickable"
             target="_blank"
           >
-            Denison Digital Humanities
+            denison digital humanities
           </a>
           ) 
         </li>
@@ -113,7 +113,7 @@ function About() {
             class="clickable"
             target="_blank"
           >
-            Grant Thornton Vietnam
+            grant thornton vietnam
           </a>
           )
         </li>
@@ -124,7 +124,7 @@ function About() {
             class="clickable"
             target="_blank"
           >
-            Campdi
+            campdi - fpt digital
           </a>
           )
         </li>
@@ -135,7 +135,7 @@ function About() {
             class="clickable"
             target="_blank"
           >
-            FPT Play
+            fpt play - fpt digital
           </a>
           )
         </li>
@@ -149,7 +149,7 @@ function About() {
             target="_blank"
             class="clickable"
           >
-            HackNC
+            hackNC
           </a>
         </li> 
         <li>
