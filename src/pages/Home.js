@@ -8,7 +8,7 @@ const hobbies = [
   "fast walking to classes 🚶🏼",
   "pretending to be busy ( ◡̀_◡́)ᕤ",
   "teasing my cat 😽",
-  "recurating my stationery collection 🗂️",
+  "restocking my stationery collection 🗂️",
   "simping over my celebrity crushes (づ ᴗ _ᴗ)づ♡",
   "crafting new playlist ⋆.˚✮🎧✮˚.⋆",
   "collecting kpop albums (go aespa & nct) 📀",
